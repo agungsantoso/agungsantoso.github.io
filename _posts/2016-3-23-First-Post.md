@@ -1,10 +1,16 @@
 ---
 layout: post
-title: My First Post!
+title: How to Start Blogging with Jekyll and GitHub Pages
 ---
 
-This is my first post
+Inspired from many blogs built using GitHub Pages, I start to search how to quickly build the blog using Jekyll and GitHub Pages.
+Then I found [article from smashing magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) explain about this.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Based on that article, there are only 4 steps to start blogging on GitHub Pages.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+1. Fork [Jekyll Now](https://github.com/barryclark/jekyll-now) repo
+2. Rename it to your username.github.io
+3. Customize your blog using `_config.yml`
+4. Create your first blog post using markdown syntax
+
+
