@@ -1,9 +1,9 @@
 ---
 layout: post
-title: `isset()`... Are Not a Reliable Solution for Variable Checking
+title: isset()... Are Not a Reliable Solution for Variable Checking
 ---
 
-Despite its name, `isset()` not only returns false if an item does not exist, but also returns `false` for `null values.
+Despite its name, `isset()` not only returns false if an item does not exist, but also returns `false` for `null` values.
 
 This behavior is more problematic than it might appear at first and is a common source of problems.
 
