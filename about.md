@@ -3,10 +3,8 @@ layout: page
 title: About
 ---
 
-Hello.
+I love learning. Recently I’ve been especially excited about learning programming. 
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Seriously. It’s so empowering! You can build amazing things quickly. You can create a company from scratch if that’s what you want to do. 
 
-**Just write thing that matters..**
-
-Enjoy!
+And beyond that, the big ideas behind programming--ideas like abstraction and encapsulation--give you a powerful vocabulary and skill set for understanding and solving just about any problem.
