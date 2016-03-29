@@ -5,7 +5,6 @@ title: Complex Switch Operator Is a Code Smell
 
 Do you have a complex switch operator or sequence of if statements? I would strongly recommend avoiding them. I believe switch operator or if statements that is too complex is a code smell. Why? Because often code for a single switch can be scattered in different places in the program. And when a new condition is added, you have to find all the switch code and modify it. It is an obvious code smell.
 
-[Image]
 
 As a rule of thumb, when you see switch you should think of polymorphism. Look at this PHP class:
 
