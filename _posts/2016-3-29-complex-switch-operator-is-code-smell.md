@@ -28,6 +28,8 @@ class Bird {
 
 Why does it have a conditional that performs various actions depending on object type or properties? Isn't it almost identical conditional? I would create subclasses matching the branches of the conditional.
 
+![Smell](http://cf.jare.io/?u=http://www.agungsantoso.com/images/smell.jpg "Smell")
+
 Here is how I would refactor the class:
 
 ```php
