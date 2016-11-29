@@ -11,6 +11,6 @@ For example you have array like this:
 
 The simplest and straightforward way to access the individual elements from handlebars template is like this:
 
-{{#each fruitArrays as |fruitArray|}}
-   <option value={{fruitArray.[0]}}>{{fruitArray.[1]}}</option>
-{{/each}}
+```{{#each fruitArrays as |fruitArray|}}```
+``` <option value={{fruitArray.[0]}}>{{fruitArray.[1]}}</option>```
+```{{/each}}```
