@@ -13,10 +13,4 @@ For example we have array like this:
 
 The simplest and straightforward way to access the individual elements from handlebars template is like this:
 
-{% highlight javascript %}
-
-{{#each fruitArrays as |fruitArray|}}
-   <option value={{fruitArray.[0]}}>{{fruitArray.[1]}}</option>
-{{/each}}
-
-{% endhighlight %}
+{% gist 4200d4ec6a58a58158de4b084fbd8e95 %}
