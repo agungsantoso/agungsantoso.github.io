@@ -14,6 +14,7 @@ Consul requires up to 5 different ports to work properly, some on TCP, UDP, or b
 * CLI RPC (Default 8400). This is used by all agents to handle RPC from the CLI. TCP only.
     
 * HTTP API (Default 8500). This is used by clients to talk to the HTTP API. TCP only.
+
 * DNS Interface (Default 8600). Used to resolve DNS queries. TCP and UDP.
 
 You can configure consul services to run on different ports by editing the config file. For example setting the DNS interface on port 53 and the HTTP API on port 80.
