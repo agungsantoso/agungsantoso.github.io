@@ -5,9 +5,11 @@ title: How to Reset the State of Redux Store
 
 For example, let’s say we have two user accounts (`u1` and `u2`).
 Imagine the following sequence of events:
+
 1. User `u1` logs into the app and does something, so we cache some data in the store.
 2. User `u1` logs out.
 3. User `u2` logs into the app without refreshing the browser.
+
 At this point, the cached data will be associated with u1, and we would like to clean it up.
 How can we reset the Redux store to its initial state when the first user logs out?
 One way to do that would be to write a root reducer by hand.
