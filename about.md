@@ -11,7 +11,3 @@ And beyond that, the big ideas behind programming--ideas like abstraction and en
 
 <a href="https://id.linkedin.com/in/agungsantoso
 " rel="Linkedin">![Linkedin](http://cf.jare.io/?u=http://www.agungsantoso.com/images/linkedin.png)</a>
-
-<style>
-img[alt=drawing] { width: 100px; }
-</style>
