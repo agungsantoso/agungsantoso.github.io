@@ -9,10 +9,8 @@ Seriously. It’s so empowering! You can build amazing things quickly. You can c
 
 And beyond that, the big ideas behind programming--ideas like abstraction and encapsulation--give you a powerful vocabulary and skill set for understanding and solving just about any problem.
 
-<center>
 <a href="https://id.linkedin.com/in/agungsantoso
 " rel="Linkedin">![Linkedin](http://cf.jare.io/?u=http://www.agungsantoso.com/images/linkedin.png)</a>
-</center>
 
 <style>
 img[alt=drawing] { width: 100px; }
