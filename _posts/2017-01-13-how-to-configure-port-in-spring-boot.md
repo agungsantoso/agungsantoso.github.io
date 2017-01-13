@@ -6,7 +6,7 @@ title: How to Configure Port in Srping Boot
 Since Spring Boot provides various configuration externalization mechanism (through various PropertySource implementations and/or processors wired into Environment object in order), you can set any property outside of your jar archive through following methods:
 
 1. Pass property through command line argument
-2. 
+
     `java -jar <path/to/my/jar> --server.port=7788`
     
 2. From propety in SPRING_APPLICATION_JSON (Spring Boot 1.3.0+)
