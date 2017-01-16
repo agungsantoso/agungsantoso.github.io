@@ -13,6 +13,7 @@ Build Phase:
 * Ensure all services are stopped
 
 Release Phase:
+
 * Spin up an environment consisting of the images and infra required, using something like CFN.
 * Use Cloud-Init user-data to configure the application environment (database connections, log forwarders etc.) and then start the applications/services
 
