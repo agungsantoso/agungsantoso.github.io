@@ -12,6 +12,7 @@ Build Phase:
 * Install the application(s) onto the Base Machine Image creating an Application Image. Tag and version this artifact. Do not embed environment specific stuff here like database connections etc. as this precludes you from easily reusing this AMI across different environment runtimes.
 * Ensure all services are stopped
 
+
 Release Phase:
 
 * Spin up an environment consisting of the images and infra required, using something like CFN.
