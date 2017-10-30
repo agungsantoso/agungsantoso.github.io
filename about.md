@@ -7,7 +7,6 @@ title: About
     <a href="https://id.linkedin.com/in/agungsantoso
 " rel="Linkedin">
         <img src="http://cf.jare.io/?u=http://www.agungsantoso.com/images/linkedin.png" height="25px">
-        <img src="" height="25px">
     </a>
 </center>
 
